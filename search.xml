@@ -227,7 +227,7 @@
 <p>@ApiOperation：用在方法上，给API增加方法说明。</p>
 <p>@ApiImplicitParams : 用在方法上，包含一组参数说明。</p>
 <p>@ApiImplicitParam：用来注解来给方法入参增加说明。</p>
-<p><img src="/.%5Cimg%5Cswagger%5Cswagger1.png" alt="swagger1"></p>
+<p><img src="https://admin768528.github.io/admin768528/raw/blob/main/img/swagger/swagger1.png" alt="swagger1"></p>
 <p>@ApiResponses：用于表示一组响应。</p>
 <p>@ApiResponse：用在@ApiResponses中，一般用于表达一个错误的响应信息</p>
 <p> l <strong>code</strong>：数字，例如400</p>
