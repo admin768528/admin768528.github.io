@@ -9,7 +9,7 @@
 <p>官网文档地址：&lt;　<a href="https://mp.baomidou.com/guide/&gt;">https://mp.baomidou.com/guide/&gt;</a></p>
 <p>MyBatis-Plus 特性：<a href="https://mp.baomidou.com/guide/#%E7%89%B9%E6%80%A7">https://mp.baomidou.com/guide/#%E7%89%B9%E6%80%A7</a></p>
 <h2 id="2、使用-SpringBoot-快速使用-MyBatis-Plus"><a href="#2、使用-SpringBoot-快速使用-MyBatis-Plus" class="headerlink" title="2、使用 SpringBoot 快速使用 MyBatis-Plus"></a>2、使用 SpringBoot 快速使用 MyBatis-Plus</h2><h4 id="（1）准备工作"><a href="#（1）准备工作" class="headerlink" title="（1）准备工作"></a>（1）准备工作</h4><p>​        需要 Java 开发环境（JDK）以及相应的开发工具（IDE）。<br>　　需要 maven（用来下载相关依赖的 jar 包）。<br>　　需要 SpringBoot。<br>　　可以使用 IDEA 安装一个 mybatis-plus 插件。</p>
-<p><img src="/img%5Cmybatis-plus1.png" alt="mybatis-plus1"></p>
+<p><img src="https://github.com/admin768528/admin768528.github.io/raw/main/img/mybatis-plus/mybatis-plus1.png" alt="mybatis-plus1"></p>
 <h4 id="2-创建一个SpringBoot项目"><a href="#2-创建一个SpringBoot项目" class="headerlink" title="(2)创建一个SpringBoot项目"></a>(2)创建一个SpringBoot项目</h4><p>​        方式一：去官网&lt; <a href="https://start.spring.io/">https://start.spring.io/</a> &gt;初始化一个，然后导入IDE工具即可。</p>
 <p>​        方式二：直接使用IDE工具创建一个Spring Initializer。</p>
 <p><img src="/img%5Cmybatis-plus2.png" alt="mybatis-plus2"></p>
