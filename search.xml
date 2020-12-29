@@ -12,27 +12,27 @@
 <p>WebStorm：<a href="https://www.jetbrains.com/webstorm">https://www.jetbrains.com/webstorm</a></p>
 <p>PyCharm：<a href="https://www.jetbrains.com/pycharm">https://www.jetbrains.com/pycharm</a></p>
 <p>安装完成后，选择 ”Evaluate for free“ 免费试用，点击 “Evaluate” 进入 IDE 中，新建或打开一个项目。</p>
-<p><img src="https://github.com/admin768528/admin768528.github.io/raw/main/img/mybatis-plus/mybatis-plus2.png" alt="idea1"></p>
+<p><img src="https://github.com/admin768528/admin768528.github.io/raw/main/img/idea/idea1.png" alt="idea1"></p>
 <p><font color="red">说明：如果不能出现这个界面，请打开压缩包执行相应的重置脚本</font></p>
 <p>windows系统：reset_jetbrains_eval_windows.vbs</p>
 <p>linux/mac系统：reset_jetbrains_eval_mac_linux.sh</p>
-<p><img src="https://github.com/admin768528/admin768528.github.io/raw/main/img/mybatis-plus/mybatis-plus2.png" alt="idea1"></p>
+<p><img src="https://github.com/admin768528/admin768528.github.io/raw/main/img/idea/idea2.png" alt="idea2"></p>
 <p><strong>激活IDEA</strong></p>
 <p>下面开始介绍如何永久激活 JetBrains IDE。激活插件在文末领取，领取的文件夹中有2个文件（请不要删除），如下：</p>
 <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">BetterIntelliJ.zip</span><br><span class="line">激活码.txt</span><br></pre></td></tr></table></figure>
 
 <p>1、打开插件中心 File -&gt; Settings -&gt; Manage Plugins Reposito，设置插件中心仓库，如下图所示</p>
-<p><img src="https://github.com/admin768528/admin768528.github.io/raw/main/img/mybatis-plus/mybatis-plus2.png" alt="idea1"></p>
+<p><img src="https://github.com/admin768528/admin768528.github.io/raw/main/img/idea/idea3.png" alt="idea3"></p>
 <p>设置仓库地址：<a href="https://repo.idechajian.com/">https://repo.idechajian.com</a> ，如下图所示</p>
-<p><img src="https://github.com/admin768528/admin768528.github.io/raw/main/img/mybatis-plus/mybatis-plus2.png" alt="idea1"></p>
+<p><img src="https://github.com/admin768528/admin768528.github.io/raw/main/img/idea/idea4.png" alt="idea4"></p>
 <p>点击OK，便可以在插件中心，搜索关键字“BetterIntellij”，如下图所示</p>
-<p><img src="https://github.com/admin768528/admin768528.github.io/raw/main/img/mybatis-plus/mybatis-plus2.png" alt="idea1"></p>
+<p><img src="https://github.com/admin768528/admin768528.github.io/raw/main/img/idea/idea5.png" alt="idea5"></p>
 <p>点击安装或者更新，便会提示你，已自动配置好javaagent~</p>
 <p>这时，必须要重启IDEA，才能生效。</p>
 <p>2、打开注册界面 Help -&gt; Register，选择添加激活码（见key.txt），如下图所示</p>
-<p><img src="https://github.com/admin768528/admin768528.github.io/raw/main/img/mybatis-plus/mybatis-plus2.png" alt="idea1"></p>
+<p><img src="https://github.com/admin768528/admin768528.github.io/raw/main/img/idea/idea6.png" alt="idea6"></p>
 <p>这时，你便激活成功了，到2099年</p>
-<p><img src="https://github.com/admin768528/admin768528.github.io/raw/main/img/mybatis-plus/mybatis-plus2.png" alt="idea1"></p>
+<p><img src="https://github.com/admin768528/admin768528.github.io/raw/main/img/idea/idea7.png" alt="idea7"></p>
 <h6 id="问题：IDEA打不开？"><a href="#问题：IDEA打不开？" class="headerlink" title="问题：IDEA打不开？"></a><font color="red">问题：IDEA打不开？</font></h6><p>由于你安装了其它的破解补丁，需要去看看idea64.exe.vmoptions的配置对不对？</p>
 <p> 位置：C:\Users\用户名\AppData\Roaming\JetBrains\IntelliJIdea2020.2\idea64.exe.vmoptions，建议去掉之前的 -javaagent 的配置。然后，再根据上面的教程安装咱们的破解补丁</p>
 <h3 id="激活插件"><a href="#激活插件" class="headerlink" title="激活插件"></a>激活插件</h3><h6 id="idea2020激活码设置插件仓库方法激活"><a href="#idea2020激活码设置插件仓库方法激活" class="headerlink" title="idea2020激活码设置插件仓库方法激活"></a>idea2020激活码设置插件仓库方法激活</h6><p>百度网盘连接：<a href="https://pan.baidu.com/s/1BHdAujj27e23zSYTe5NlIA">https://pan.baidu.com/s/1BHdAujj27e23zSYTe5NlIA</a></p>
